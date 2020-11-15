@@ -162,6 +162,10 @@ a{
     position: relative;
 }
 
+.drowpdown ul li{
+    list-style: none;
+}
+
 .drowpdown-menu{
     position: absolute;
     background-color: #6195FF;
