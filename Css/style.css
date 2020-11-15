@@ -162,7 +162,8 @@ a{
     position: relative;
 }
 
-.drowpdown ul li{
+
+.drowpdown .drowpdown-menu li{
     list-style: none;
 }
 
